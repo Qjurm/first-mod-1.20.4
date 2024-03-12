@@ -13,7 +13,7 @@ public class FirstMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
-
+		System.out.println("HAllo");
 
 	}
 }
